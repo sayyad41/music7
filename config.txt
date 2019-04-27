@@ -1,0 +1,6 @@
+owner=366569932529336320
+prefix=1
+game=Republic.
+stayinchannel=true
+songinstatus=false
+token=NTcxNzU0ODM0NDQ1NzI5ODIz.XMSWaw.HAvLppETzUxLwtyFFYM8xNtnkP4
